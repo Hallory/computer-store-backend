@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Django
+*.sqlite3
+/staticfiles/
+/media/
+
+# Environment files
+.env
+
+# OS
+.DS_Store
